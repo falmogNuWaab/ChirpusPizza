@@ -1,0 +1,9 @@
+#cpMenuDiv {
+    background-color: #cc9900;
+    border-radius: 50px;    
+    border: 1px solid black;
+  }
+  #cpMenuDiv h1,h2,h3 {
+      color: #990000;
+      text-align: center;
+    }
